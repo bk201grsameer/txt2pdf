@@ -49,7 +49,7 @@ def txt_to_pdf(input_file, output_folder, output_file_name):
     pdf.save()
     # After saving the PDF, let's also open the generated PDF for preview
     os.startfile(output_path)
-
+    input("[+] Enter to exit the program")
 # Example usage
 input_file = input("Enter the path to the input text file: ")
 output_folder = input("Enter the path to the output folder (leave blank for current folder): ").strip()
