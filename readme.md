@@ -31,6 +31,14 @@ Enter the path to the output folder (leave blank for current folder): documents
 Enter the output file name (without extension, e.g., output): output
 ```
 
+
+
+## Download
+You can download the latest version of the Text to PDF Converter, including executables, from [here](./txt2pdf1.0.0.zip).
+
+## Author
+Sameer Karn
+
 ## Author
 Sameer Karn
 
