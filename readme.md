@@ -34,7 +34,7 @@ Enter the output file name (without extension, e.g., output): output
 
 
 ## Download
-You can download the latest version of the Text to PDF Converter, including executables, from [here](./txt2pdf1.0.0.zip).
+You can download the latest version of the Text to PDF Converter, including executables, from [here](https://github.com/bk201grsameer/txt2pdf/blob/main/txt2pdf1.0.0.zip).
 
 ## Author
 Sameer Karn
